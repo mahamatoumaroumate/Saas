@@ -67,7 +67,7 @@ const SettingPage = async () => {
           <CardHeader>
             <CardTitle>General Data</CardTitle>
             <CardDescription>
-              Please provide general information about yourself. Please don't
+              Please provide general information about yourself. Please dont
               forget to save
             </CardDescription>
           </CardHeader>
