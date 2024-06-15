@@ -18,7 +18,7 @@ const Navbar = async () => {
         <div className='container flex items-center justify-between '>
           <Link href='/'>
             <h1 className='hidden sm:block text-2xl font-bold '>
-              Mahamat Saas
+              Mahamat <span className='text-primary'>Saas</span>
             </h1>
             <h1 className='block sm:hidden text-2xl font-bold '>M</h1>
           </Link>
